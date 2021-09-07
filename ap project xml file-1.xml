@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "ap.xsl"?> 
+<class>
+
+<precaution id="1">
+    <heading>wear mask properly</heading>
+    <description>
+   Mask should be worn properly i.e.it should cover the nose and mouth properly
+   </description>
+</precaution>
+<precaution  id="2">
+    <heading>clean your hands often</heading>
+    <description>
+    Follow Five Steps to Wash Your Hands the Right Way:
+    1.Wet your hands with clean, running water (warm or cold), turn off the tap, and apply soap.
+    2.Lather your hands by rubbing them together with the soap. Lather the backs of your hands, between your fingers, and under your nails.
+    3.Scrub your hands for at least 20 seconds. Need a timer? Hum the “Happy Birthday” song from beginning to end twice.
+    4.Rinse your hands well under clean, running water.
+    5.Dry your hands using a clean towel or air dry them.
+    </description>
+</precaution>
+<precaution  id="3">
+    <heading>Cough or sneeze in your bent elbow - not your hands!</heading>
+    <description>
+    this is the tough time every one is facing ,so it is our responsibility to protect ourselves and also protect others by following some steps like Cough or sneeze in your bent elbow - not your hands.
+    </description>
+</precaution>
+<precaution id="4">
+    <heading>Avoid touching your eyes, nose and mouth</heading>
+    <description>
+    before touching your eyes,nose and mouth wash or sanitise your hands properly
+    </description>
+</precaution>
+<precaution id="5">
+    <heading>Avoid close contact with someone who is sick</heading>
+    <description>
+    avoid the close contact with sick people ,these days we can't say why a particular person is sick and if the reason is covid then it may spoil your health also.
+    </description>
+</precaution>
+</class>
